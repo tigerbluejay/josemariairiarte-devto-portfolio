@@ -14,7 +14,7 @@ Welcome to my curated collection of technical articles published on [dev.to](htt
 
 ### 2. Data Structures and Algorithms in C# (2-Part Series)
 - [Foundations of Data Structures and Algorithms in C#](https://dev.to/josemariairiarte/foundations-of-data-structures-and-algorithms-in-c-315b)
-- [A Curated Repository of Early C# Algorithms for Technical Interviews](https://dev.to/josemariairiarte/a-curated-repository-of-early-c-algorithms-for-technical-interviews-42f2)
+- [A Curated Repository of Early C# Algorithms for Technical Interviews](https://dev.to/josemariairiarte/a-curated-repository-of-foundational-c-algorithms-for-technical-interviews-42f2)
 
 ### 3. Essential Tactics to Speed Up Mental Calculations with Whole Numbers (2-Part Series)
 - [Low-Latency Mental Math: Quick Additions and Subtractions for Software Developers](https://dev.to/josemariairiarte/low-latency-mental-math-quick-additions-and-subtractions-for-software-developers-5eg4)
