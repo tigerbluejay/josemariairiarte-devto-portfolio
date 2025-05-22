@@ -34,10 +34,10 @@ Welcome to my curated collection of technical articles published on [dev.to](htt
 ## 🧩 Individual Articles
 
 - [Programming Emotion and Approximating Human Life](https://dev.to/josemariairiarte/programming-emotion-and-approximating-human-life-3fh3)
-- [First Steps in C++: An Introductory Capstone Project](https://dev.to/josemariairiarte/first-steps-in-c-an-introductory-capstone-project-455k)
-- [Mastering Design Patterns in .NET (with AI Examples)](https://dev.to/josemariairiarte/mastering-design-patterns-in-net-beginner-friendly-ai-examples-5feh)  
+- [First Steps in C++: An Introductory Capstone Project](https://dev.to/josemariairiarte/first-steps-with-c-an-introductory-capstone-project-455k)
+- [Mastering Design Patterns in .NET (with AI Examples)](https://dev.to/josemariairiarte/mastering-design-patterns-in-net-beginner-friendly-ai-examples-for-effective-learning-5feh)  
 - [Lessons from Building a One-Man Startup](https://dev.to/josemariairiarte/lessons-from-building-a-one-man-startup-the-evolution-of-octal-stream-id2)
-- [Learning LINQ with 101 Examples and Sample Data (Query & Fluent Syntax)](https://dev.to/josemariairiarte/learning-linq-with-101-examples-and-sample-data-query-fluent-syntax-26an)  
+- [Learning LINQ with 101 Examples and Sample Data (Query & Fluent Syntax)](https://dev.to/josemariairiarte/learn-linq-with-101-examples-and-sample-data-query-syntax-26an)  
 
 ---
 
