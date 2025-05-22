@@ -17,8 +17,8 @@ Welcome to my curated collection of technical articles published on [dev.to](htt
 - [A Curated Repository of Early C# Algorithms for Technical Interviews](https://dev.to/josemariairiarte/a-curated-repository-of-foundational-c-algorithms-for-technical-interviews-42f2)
 
 ### 3. Essential Tactics to Speed Up Mental Calculations with Whole Numbers (2-Part Series)
-- [Low-Latency Mental Math: Quick Additions and Subtractions for Software Developers](https://dev.to/josemariairiarte/low-latency-mental-math-quick-additions-and-subtractions-for-software-developers-5eg4)
-- [Optimizing Mental Math: Fast Multiplications and Divisions for Software Engineers](https://dev.to/josemariairiarte/optimizing-mental-math-fast-multiplications-and-divisions-for-software-engineers-43a0)
+- [Low-Latency Mental Math: Quick Additions and Subtractions for Software Developers](https://dev.to/josemariairiarte/low-latency-math-quick-additions-and-subtractions-for-software-developers-5eg4)
+- [Optimizing Mental Math: Fast Multiplications and Divisions for Software Engineers](https://dev.to/josemariairiarte/optimizing-mental-math-fast-multiplications-and-divisions-for-software-egineers-43a0)
 
 ### 4. HTML and CSS Fundamentals Video Series (2-Part Series)
 - [Mastering HTML Video Series: A Structured, Concise Blueprint for Essential Modern HTML](https://dev.to/josemariairiarte/mastering-html-video-series-a-structured-concise-blueprint-for-essential-modern-html-1gh9)
