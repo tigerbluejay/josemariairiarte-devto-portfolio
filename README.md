@@ -7,10 +7,10 @@ Welcome to my curated collection of technical articles published on [dev.to](htt
 ## 📚 Article Series
 
 ### 1. Designing C# .NET MVC Applications (4-Part Series)
-- [Creating a Basic CRUD App with .NET MVC & EF](https://dev.to/josemariairiarte/creating-a-basic-crud-app-with-net-mvc-ef-35in)
+- [Creating a Basic CRUD App with .NET MVC & EF](https://dev.to/josemariairiarte/create-a-basic-crud-app-with-net-mvc-ef-35in)
 - [Creating an Intermediate .NET MVC Application](https://dev.to/josemariairiarte/create-an-intermediate-net-mvc-application-31f8)
 - [Navigating a Standard .NET API Service: A Real Estate Example](https://dev.to/josemariairiarte/navigating-a-standard-net-api-service-a-real-estate-example-1heb)
-- [Consuming a Standard API: An MVC Real Estate Example](https://dev.to/josemariairiarte/consuming-a-standard-api-an-mvc-real-estate-example-5hm9)
+- [Consuming a Standard API: An MVC Real Estate Example](https://dev.to/josemariairiarte/consuming-a-standard-net-api-a-real-estate-example-5hm9)
 
 ### 2. Data Structures and Algorithms in C# (2-Part Series)
 - [Foundations of Data Structures and Algorithms in C#](https://dev.to/josemariairiarte/foundations-of-data-structures-and-algorithms-in-c-315b)
