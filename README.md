@@ -16,9 +16,10 @@ Welcome to my curated collection of technical articles published on [dev.to](htt
 - [Foundations of Data Structures and Algorithms in C#](https://dev.to/josemariairiarte/foundations-of-data-structures-and-algorithms-in-c-315b)
 - [A Curated Repository of Early C# Algorithms for Technical Interviews](https://dev.to/josemariairiarte/a-curated-repository-of-foundational-c-algorithms-for-technical-interviews-42f2)
 
-### 3. Essential Tactics to Speed Up Mental Calculations with Whole Numbers (2-Part Series)
+### 3. Essential Tactics to Speed Up Mental Calculations with Whole Numbers (3-Part Series)
 - [Low-Latency Mental Math: Quick Additions and Subtractions for Software Developers](https://dev.to/josemariairiarte/low-latency-math-quick-additions-and-subtractions-for-software-developers-5eg4)
 - [Optimizing Mental Math: Fast Multiplications and Divisions for Software Engineers](https://dev.to/josemariairiarte/optimizing-mental-math-fast-multiplications-and-divisions-for-software-egineers-43a0)
+- [Mental Math Hacks: Swift Estimations of Powers and Roots for Programmers](https://dev.to/josemariairiarte/mental-math-hacks-swift-estimations-of-powers-and-roots-for-programmers-321m)
 
 ### 4. HTML and CSS Fundamentals Video Series (2-Part Series)
 - [Mastering HTML Video Series: A Structured, Concise Blueprint for Essential Modern HTML](https://dev.to/josemariairiarte/mastering-html-video-series-a-structured-concise-blueprint-for-essential-modern-html-1gh9)
@@ -33,11 +34,16 @@ Welcome to my curated collection of technical articles published on [dev.to](htt
 
 ## 🧩 Individual Articles
 
-- [Programming Emotion and Approximating Human Life](https://dev.to/josemariairiarte/programming-emotion-and-approximating-human-life-3fh3)
+### 1. Technical Deep Dives
+
 - [First Steps in C++: An Introductory Capstone Project](https://dev.to/josemariairiarte/first-steps-with-c-an-introductory-capstone-project-455k)
 - [Mastering Design Patterns in .NET (with AI Examples)](https://dev.to/josemariairiarte/mastering-design-patterns-in-net-beginner-friendly-ai-examples-for-effective-learning-5feh)  
-- [Lessons from Building a One-Man Startup](https://dev.to/josemariairiarte/lessons-from-building-a-one-man-startup-the-evolution-of-octal-stream-id2)
 - [Learning LINQ with 101 Examples and Sample Data (Query & Fluent Syntax)](https://dev.to/josemariairiarte/learn-linq-with-101-examples-and-sample-data-query-syntax-26an)  
+
+### 2. Thought Leadership Articles
+
+- [Programming Emotion and Approximating Human Life](https://dev.to/josemariairiarte/programming-emotion-and-approximating-human-life-3fh3)
+- [Lessons from Building a One-Man Startup](https://dev.to/josemariairiarte/lessons-from-building-a-one-man-startup-the-evolution-of-octal-stream-id2)
 
 ---
 
