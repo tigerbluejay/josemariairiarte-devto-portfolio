@@ -12,10 +12,9 @@ Welcome to my curated collection of technical articles published on [dev.to](htt
 - [Navigating a Standard .NET API Service: A Real Estate Example](https://dev.to/josemariairiarte/navigating-a-standard-net-api-service-a-real-estate-example-1heb)
 - [Consuming a Standard API: An MVC Real Estate Example](https://dev.to/josemariairiarte/consuming-a-standard-net-api-a-real-estate-example-5hm9)
 
-### 2. Modern Practises: .NET / Angular Integrations and Microservices (2-Part Series)
+### 2. Modern Practices: .NET / Angular Integrations and Microservices (2-Part Series)
 - [Integrating an Angular Client with a .NET Web API – A Freelancer Marketplace Application](https://dev.to/josemariairiarte/integrating-an-angular-client-with-a-net-web-api-a-freelancer-marketplace-application-1akj)
 - [Upcoming Article on Microservices - Late 2025]
-
 
 ### 3. Data Structures and Algorithms in C# (2-Part Series)
 - [Foundations of Data Structures and Algorithms in C#](https://dev.to/josemariairiarte/foundations-of-data-structures-and-algorithms-in-c-315b)
