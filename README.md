@@ -14,7 +14,7 @@ Welcome to my curated collection of technical articles published on [dev.to](htt
 
 ### 2. Modern Practices: .NET / Angular Integrations and Microservices (2-Part Series)
 - [Integrating an Angular Client with a .NET Web API – A Freelancer Marketplace Application](https://dev.to/josemariairiarte/integrating-an-angular-client-with-a-net-web-api-a-freelancer-marketplace-application-1akj)
-- [Upcoming Article on Microservices - Late 2025]
+- [Building Portfolio Insights: Lessons from an Event‑Driven .NET Microservices Dashboard](https://dev.to/josemariairiarte/building-portfolio-insights-lessons-from-an-event-driven-net-microservices-dashboard-4m53)
 
 ### 3. Data Structures and Algorithms in C# (2-Part Series)
 - [Foundations of Data Structures and Algorithms in C#](https://dev.to/josemariairiarte/foundations-of-data-structures-and-algorithms-in-c-315b)
